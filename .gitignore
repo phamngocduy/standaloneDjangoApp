@@ -1,0 +1,4 @@
+postgres
+djangoenv
+migrations
+__pycache__
